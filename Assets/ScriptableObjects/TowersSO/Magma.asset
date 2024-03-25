@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2553034da2d749949f3ff99b9fbd768c, type: 3}
+  m_Name: Magma
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Magma
+  <Id>k__BackingField: 0
+  <Icon>k__BackingField: {fileID: 21300000, guid: bf1aca5107fbf43c8b185b84cd8c3e3b,
+    type: 3}
+  <Prefab>k__BackingField: {fileID: 1940005001618815403, guid: 622b9b148588c4a08b526cc8dc05d3f9,
+    type: 3}
+  <Damage>k__BackingField: 0
+  <Price>k__BackingField: 10
+  <AttackSpeed>k__BackingField: 5
+  <LifeTimeInSec>k__BackingField: 40
